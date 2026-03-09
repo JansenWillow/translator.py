@@ -1,4 +1,4 @@
-name: translator apps work flow 
+name: translator apps workflow 
 
 on: [push]
 
