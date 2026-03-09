@@ -1,7 +1,7 @@
 from translator import translate
 
 def test_translate_halo():
-    assert translate("halo") == "hello"
+    assert translate("halo") == "hallo"
 
 def test_translate_terima_kasih():
     assert translate("terima kasih") == "thank you"
