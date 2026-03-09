@@ -1,5 +1,5 @@
 kamus = {
-    "halo": "hallo",
+    "halo": "hai",
     "selamat pagi": "good morning",
     "selamat malam": "good night",
     "terima kasih": "thank you",
